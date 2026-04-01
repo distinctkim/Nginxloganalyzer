@@ -22,4 +22,4 @@ Output should be:-
 <img width="485" height="368" alt="image" src="https://github.com/user-attachments/assets/1d049eaa-7625-445a-ac1a-90fc40c0e6de" />
 
 Project Url:-
-https://github.com/distinctkim/Nginxloganalyzer
+[https://github.com/distinctkim/Nginxloganalyzer](https://roadmap.sh/projects/nginx-log-analyser)
